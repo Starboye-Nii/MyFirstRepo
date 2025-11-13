@@ -1,0 +1,2 @@
+What I have learned so far in this course:
+Throughout this course, I have learned the fundamental concepts of version control using Git and GitHub. I now understand how to create repositories, manage branches, make commits, and collaborate with others through pull requests. These skills are essential for modern software development and will help me work more effectively on team projects.
