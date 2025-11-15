@@ -1,4 +1,4 @@
-My personal Academic goals for next year.
+My Personal and Academic Goals for Next Year
 Complete ALX Pathway course modules and pass assessments.
 Build a sensor network prototype for a small smart-grid demo.
 Learn intermediate Git and GitHub workflows.
